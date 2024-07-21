@@ -1,0 +1,18 @@
+body {
+    background-image: url('sexy.jpg'); /* Replace with your image path */
+
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.container {
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.8); /* Adjust background color and opacity as needed */
+    padding: 20px;
+    border-radius: 10px;
+}
